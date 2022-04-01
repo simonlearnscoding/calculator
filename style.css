@@ -15,6 +15,13 @@
 
 
 }
+.disabled{
+    opacity: 10%;
+}
+
+.disabled:hover{
+    opacity: 10%;
+}
 
 .inputFields {
 display: flex;
